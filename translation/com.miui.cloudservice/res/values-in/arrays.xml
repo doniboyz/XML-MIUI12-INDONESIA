@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Untuk mengidentifikasi item tersinkron</item>
+        <item>Untuk menyinkron pesan</item>
+        <item>Untuk menyinkron kontak</item>
+        <item>Untuk menyinkron acara kalender</item>
+        <item>Untuk menyinkron item dengan layanan yang menggunakan penyimpanan</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telepon</item>
+        <item>SMS</item>
+        <item>Kontak</item>
+        <item>Kalender</item>
+        <item>Penyimpanan</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sinkron data apl</item>
+        <item>Cadangkan tata letak Layar utama</item>
+        <item>Cadangkan setelan sistem</item>
+        <item>Cari perangkat</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sinkron kontak, pesan, catatan, kalendar Anda, dan lainnya</item>
+        <item>Cadangkan apl, tata letak Layar utama, dan wallpaper</item>
+        <item>Cadangkan setelan penting, termasuk Wi-Fi dan tampilan</item>
+        <item>Kunci perangkat dari jarak jauh jika hilang</item>
+    </string-array>
+</resources>

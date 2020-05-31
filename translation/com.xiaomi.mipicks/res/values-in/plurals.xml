@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">Dari %3$d orang, termasuk @%1$s dan @%2$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">Ada %1$d pesan belum dibaca</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s hari</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Hapus %1$s entri di riwayat pengunduhan.</item>
+    </plurals>
+</resources>

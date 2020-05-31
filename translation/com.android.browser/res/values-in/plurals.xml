@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d iklan terblokir</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d item terblokir</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">Lihat %1$d artikel baru</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Memutar video berikutnya dalam %d detik</item>
+    </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d terpilih</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">Hapus %d tugas?</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d cocok</item>
+    </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">Berhasil mengunduh %d item</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">%d hari terakhir</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d dari %2$d</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Setelah %d detik, akan otomatis buat halaman baru</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s suka</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d terblokir</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d album</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d lagu populer</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">Lihat %1$d video baru</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d kali dilihat</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Cerah</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d orang telah memberi suara</item>
+    </plurals>
+</resources>

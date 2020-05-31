@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Rekomendasi Minggu</item>
+        <item>Rekomendasi Senin</item>
+        <item>Rekomendasi Selasa</item>
+        <item>Rekomendasi Rabu</item>
+        <item>Rekomendasi Kamis</item>
+        <item>Rekomendasi Jumat</item>
+        <item>Rekomendasi Sabtu</item>
+    </string-array>
+</resources>

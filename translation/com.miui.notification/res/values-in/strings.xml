@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notifikasi</string>
+    <string name="default_list_type">Urut per tanggal diterima</string>
+    <string name="disable_float_notification">Notifikasi mengambang tidak diizinkan</string>
+    <string name="disable_lockscreen_notification">Notifikasi Layar kunci tidak diizinkan</string>
+    <string name="disable_show_badge_notification">Lencana notifikasi tidak diizinkan</string>
+    <string name="enable_float_notification">Notifikasi mengambang diizinkan</string>
+    <string name="enable_lockscreen_notification">Notifikasi Layar kunci diizinkan</string>
+    <string name="enable_show_badge_notification">Lencana notifikasi diizinkan</string>
+    <string name="expandable_under_keyguard">Buka Bar notifikasi di Layar kunci</string>
+    <string name="float_notifications">Notifikasi mengambang</string>
+    <string name="hint_search_all">Cari aplikasi</string>
+    <string name="hint_search_in_disabled_apps">Cari apl yang tidak dapat menampilkan notifikasi</string>
+    <string name="hint_search_in_enabled_apps">Cari apl yang dapat menampilkan notifikasi</string>
+    <string name="list_title_disable_notification">Notifikasi tidak diizinkan</string>
+    <string name="loading">Tunggu sebentar…</string>
+    <string name="lock_screen_display_rules">Format</string>
+    <string name="lock_screen_tip_toast">Izinkan notifikasi Layar kunci di \"Format\"</string>
+    <string name="lockscreen_notifications">Notifikasi Layar kunci</string>
+    <string name="not_sent_recently">Bukan belakangan ini</string>
+    <string name="notch_and_status_bar_setting">Notch &amp; bar status</string>
+    <string name="notification_display_setting">Bar notifikasi</string>
+    <string name="notification_display_style">Gaya notifikasi</string>
+    <string name="notification_fold_summary">Semua notifikasi tidak penting akan ditampilkan di folder yang berbeda</string>
+    <string name="notification_fold_title">Folder notifikasi</string>
+    <string name="notification_manager">Notifikasi aplikasi</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Mati</string>
+    <string name="on">Nyala</string>
+    <string name="settings_guide_title">Perlu setelan lainnya?</string>
+    <string name="show_badge_notifications">Lencana notifikasi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_setting">Bar status</string>
+    <string name="summary_disable_float_notification">Notifikasi mengambang tidak diizinkan</string>
+    <string name="summary_disable_lockscreen_notification">Notifikasi Layar kunci tidak diizinkan</string>
+    <string name="summary_disable_show_badge_notification">Lencana notifikasi tidak diizinkan</string>
+    <string name="summary_enable_float_notification">Notifikasi mengambang diizinkan</string>
+    <string name="summary_enable_lockscreen_notification">Notifikasi Layar kunci diizinkan</string>
+    <string name="summary_enable_show_badge_notification">Lencana notifikasi diizinkan</string>
+    <string name="summary_float_enable_notification_first">Izinkan notifikasi untuk dapat menghidupkan notifikasi mengambang</string>
+    <string name="summary_lock_screen_enable_notification_first">Izinkan notifikasi untuk dapat menghidupkan notifikasi Layar kunci</string>
+    <string name="summary_show_badge_enable_notification_first">Izinkan notifikasi untuk dapat menghidupkan lencana notifikasi</string>
+</resources>

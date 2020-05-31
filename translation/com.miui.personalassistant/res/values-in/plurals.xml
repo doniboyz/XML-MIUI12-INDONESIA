@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Dalam %d menit</item>
+        <item quantity="one">Dalam %d menit</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Dalam %d hari</item>
+        <item quantity="one">Dalam %d hari</item>
+    </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">%d hari lagi</item>
+        <item quantity="one">%d hari lagi</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$dd hari lalu</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Hapus %s item dari express?</item>
+        <item quantity="one">Hapus %s item dari express?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">Dipilih %s item</item>
+        <item quantity="one">Dipilih %s item</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$dhr lalu</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Hapus %s item dari favorit?</item>
+        <item quantity="one">Hapus %s item dari favorit?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Tandai %s item sebagai penting</item>
+        <item quantity="one">Tandai %s item sebagai penting</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Dipilih %s item</item>
+        <item quantity="one">Dipilih %s item</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$dmin menit lalu</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Hapus %s item dari pembayaran?</item>
+        <item quantity="one">Hapus %s item dari pembayaran?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Dipilih %s item</item>
+        <item quantity="one">Dipilih %s item</item>
+    </plurals>
+    <plurals name="shopping_delete_num">
+        <item quantity="other">Hapus %s item yang dipilih?</item>
+        <item quantity="one">Hapus %s item yang dipilih?</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">%d hari lagi</item>
+        <item quantity="one">%d hari lagi</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">%d jam lagi</item>
+        <item quantity="one">%d jam lagi</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">%d menit lagi</item>
+        <item quantity="one">%d menit lagi</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|langkah</item>
+        <item quantity="zero">%d|langkah</item>
+        <item quantity="one">%d|langkah</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d jam lalu</item>
+        <item quantity="one">%d jam lalu</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d menit lalu</item>
+        <item quantity="one">%d menit lalu</item>
+    </plurals>
+</resources>
