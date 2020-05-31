@@ -4,4 +4,4 @@ Indonesian Translation Language for MIUI ROM Indonesia Translation Language from
 
 by Romdhoni/donidoang
 
-only for B.A.R.S Aplication
+only for B.A.R.S
